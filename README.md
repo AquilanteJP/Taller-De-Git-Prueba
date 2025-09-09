@@ -1,2 +1,2 @@
-# github-en-la-industria
+# prueba
 Repositorio del primer encuentro del Club de Datos 2c2025
